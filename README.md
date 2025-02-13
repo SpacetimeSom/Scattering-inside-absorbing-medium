@@ -49,3 +49,6 @@ The script prints the normalized absorbed energy in the medium:
 ## Author
 - **Somendra Singh Jadon**
 - **Kalpak Gupta**
+
+## License
+This project is open-source and available under the MIT License.
