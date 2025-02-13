@@ -30,3 +30,20 @@ pip install numpy
 | `ua`       | Absorption coefficient of the medium |
 | `Lx, Ly, Lz` | Dimensions of the medium |
 | `itr`      | Number of photon packets to simulate |
+
+
+## Usage
+Run the script using:
+
+```bash
+python photon_inside_photoreactor.py
+```
+
+## Output
+The script prints the normalized absorbed energy in the medium:
+
+```bash
+(Absorbed Energy) = (total absorption per photon) / (1 - exp(-ua))
+```
+
+
