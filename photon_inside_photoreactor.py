@@ -4,7 +4,8 @@
 """
 Created on Sat Mar 19 17:53:39 2022
 
-@author: somendrasinghjadon
+@author1: somendrasinghjadon
+@author2: kalpakgupta
 """
 
 #%% import modules
