@@ -46,4 +46,6 @@ The script prints the normalized absorbed energy in the medium:
 (Absorbed Energy) = (total absorption per photon) / (1 - exp(-ua))
 ```
 
-
+## Author
+- **Somendra Singh Jadon**
+- **Kalpak Gupta**
